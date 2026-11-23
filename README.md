@@ -2,7 +2,7 @@
 
 A reproducible, portfolio-ready analysis of a **synthetic** client onboarding dataset. The project demonstrates data preparation, validation, KPI analysis, exception investigation, visualization, and business recommendations using Python's standard library.
 
-> **Data notice:** Every record in `data/raw/onboarding_cases.csv` is fictional and generated for this project. It contains no real client, bank, or JPMorgan Chase data. The results are illustrative and should not be presented as actual company performance.
+> **Data notice:** Every record in `data/raw/onboarding_cases.csv` is fictional and generated for this project. It contains no real client, bank, or company data. The results are illustrative and should not be presented as actual company performance.
 
 ## Business question
 
