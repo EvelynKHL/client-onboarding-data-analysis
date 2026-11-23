@@ -1,0 +1,601 @@
+case_id,received_date,completed_date,client_segment,onboarding_channel,exception_category,documents_complete,risk_tier,estimated_relationship_value_usd
+ONB-0001,2025-03-10,2025-03-14,Corporate,Relationship Manager,Data Mismatch,N,Medium,1139047.99
+ONB-0002,2025-02-14,2025-02-21,Corporate,Digital,Missing Documentation,Y,Low,1997562.58
+ONB-0003,2025-03-21,2025-03-27,Mid-Market,Digital,Data Mismatch,N,Medium,2022801.92
+ONB-0004,2025-02-11,2025-02-13,Small Business,Branch,None,N,High,993764.47
+ONB-0005,2025-03-07,2025-03-19,Corporate,Relationship Manager,Risk Review,N,Medium,662242.23
+ONB-0006,2025-02-25,2025-03-06,Corporate,Digital,Missing Documentation,Y,Medium,2217612.86
+ONB-0007,2025-02-27,2025-03-04,Small Business,Digital,Missing Documentation,Y,Medium,1910817.05
+ONB-0008,2025-02-24,2025-03-04,Small Business,Relationship Manager,Missing Documentation,Y,Low,2167993.19
+ONB-0009,2025-03-13,2025-03-26,Mid-Market,Relationship Manager,None,N,Low,1801508.84
+ONB-0010,2025-01-15,2025-01-17,Corporate,Digital,None,N,High,1273794.45
+ONB-0011,2025-02-05,2025-02-13,Corporate,Digital,None,N,High,440463.70
+ONB-0012,2025-01-30,2025-02-12,Small Business,Branch,Risk Review,N,Medium,2043655.57
+ONB-0013,2025-03-12,2025-03-19,Small Business,Digital,None,N,Medium,334329.86
+ONB-0014,2025-03-17,2025-03-18,Small Business,Relationship Manager,Data Mismatch,N,Medium,1935495.56
+ONB-0015,2025-01-21,2025-02-05,Small Business,Relationship Manager,None,N,Medium,2302073.84
+ONB-0016,2025-02-25,2025-03-07,Corporate,Relationship Manager,Missing Documentation,Y,Medium,492667.18
+ONB-0017,2025-01-28,2025-02-11,Corporate,Digital,Missing Documentation,,Low,126084.45
+ONB-0018,2025-02-24,2025-03-05,Small Business,Digital,Data Mismatch,N,Medium,1034013.76
+ONB-0019,2025-01-06,2025-01-14,Corporate,Relationship Manager,Risk Review,N,Low,1601647.14
+ONB-0020,2025-02-21,2025-02-28,Mid-Market,Relationship Manager,None,N,Low,1630046.23
+ONB-0021,2025-01-01,2025-01-08,Mid-Market,Branch,None,N,Medium,1768043.74
+ONB-0022,2025-02-28,2025-03-06,Small Business,Digital,Risk Review,N,Low,1208198.66
+ONB-0023,2025-01-30,2025-02-03,Mid-Market,Digital,None,N,Medium,1506383.69
+ONB-0024,2025-01-21,2025-01-24,Small Business,Branch,None,N,Medium,2408703.62
+ONB-0025,2025-03-11,2025-03-14,Corporate,Relationship Manager,None,N,Medium,1356038.18
+ONB-0026,2025-02-27,2025-03-13,Small Business,Digital,None,N,Low,1432260.86
+ONB-0027,2025-02-17,2025-02-26,Small Business,Digital,None,N,Medium,193228.29
+ONB-0028,2025-02-11,2025-02-21,Small Business,Digital,None,N,Low,670259.31
+ONB-0029,2025-01-14,2025-01-16,Small Business,Relationship Manager,Missing Documentation,Y,Low,2079174.48
+ONB-0030,2025-03-19,2025-03-24,Corporate,Relationship Manager,None,N,Low,314713.93
+ONB-0031,2025-02-14,2025-02-28,Corporate,Digital,Missing Documentation,Y,Low,849154.42
+ONB-0032,2025-03-13,2025-03-14,Small Business,Digital,Risk Review,N,Medium,828410.50
+ONB-0033,2025-03-18,2025-03-27,Mid-Market,Digital,Missing Documentation,Y,Low,2443921.46
+ONB-0034,2025-01-02,2025-01-10,Small Business,Relationship Manager,None,N,Medium,604743.68
+ONB-0035,2025-03-28,,Mid-Market,Digital,Missing Documentation,Y,Medium,944290.48
+ONB-0036,2025-01-29,2025-01-31,Corporate,Relationship Manager,Data Mismatch,N,High,459418.58
+ONB-0037,2025-03-21,,Small Business,Digital,None,N,Low,1567774.27
+ONB-0038,2025-02-17,2025-02-26,Mid-Market,Relationship Manager,Data Mismatch,N,Low,1547952.89
+ONB-0039,2025-01-10,2025-01-15,Mid-Market,Relationship Manager,None,N,Medium,304928.01
+ONB-0040,2025-03-03,2025-03-05,Mid-Market,Digital,None,N,Medium,283494.40
+ONB-0041,2025-01-29,2025-01-30,Mid-Market,Branch,Risk Review,N,Medium,22671.50
+ONB-0042,2025-03-04,2025-03-10,Small Business,Branch,Data Mismatch,N,Low,281288.90
+ONB-0043,2025-03-04,2025-03-14,Corporate,Branch,Risk Review,N,High,612394.80
+ONB-0044,2025-03-18,2025-03-21,Small Business,Relationship Manager,Data Mismatch,N,Medium,2355769.04
+ONB-0045,2025-03-12,2025-03-20,Mid-Market,Branch,Data Mismatch,N,Low,627890.23
+ONB-0046,2025-02-21,2025-03-03,Small Business,Relationship Manager,Data Mismatch,N,Medium,297150.66
+ONB-0047,2025-01-31,2025-02-12,Small Business,Branch,None,N,Medium,2084437.29
+ONB-0048,2025-02-10,2025-02-25,Mid-Market,Digital,Data Mismatch,N,Low,1122618.90
+ONB-0049,2025-02-13,2025-02-19,Corporate,Relationship Manager,None,N,Low,1924089.72
+ONB-0050,2025-03-25,,Small Business,Relationship Manager,Missing Documentation,Y,Medium,2439100.15
+ONB-0051,2025-01-02,2025-01-07,Corporate,Digital,None,N,Medium,1218355.01
+ONB-0052,2025-01-13,,Small Business,Branch,Data Mismatch,N,High,392421.57
+ONB-0053,2025-03-06,2025-03-19,Mid-Market,Relationship Manager,Missing Documentation,Y,Low,1288777.10
+ONB-0054,2025-01-30,2025-02-05,Small Business,Relationship Manager,None,N,Low,719108.01
+ONB-0055,2025-02-18,2025-02-21,Small Business,Digital,Risk Review,N,Low,1297632.55
+ONB-0056,2025-02-12,2025-02-14,Corporate,Relationship Manager,None,N,Medium,364620.18
+ONB-0057,2025-02-10,2025-02-18,Mid-Market,Branch,Missing Documentation,Y,Low,570624.02
+ONB-0058,2025-02-13,2025-02-18,Corporate,Digital,Data Mismatch,N,High,1905162.60
+ONB-0059,2025-01-27,2025-01-30,Small Business,Relationship Manager,None,N,Low,92223.25
+ONB-0060,2025-01-22,2025-01-28,Corporate,Digital,None,N,Medium,1684883.02
+ONB-0061,2025-02-18,2025-02-20,Small Business,Digital,None,N,Medium,89163.55
+ONB-0062,2025-01-03,2025-01-13,Corporate,Digital,None,N,Low,633027.39
+ONB-0063,2025-01-06,2025-01-16,Mid-Market,Relationship Manager,None,N,High,515170.48
+ONB-0064,2025-01-17,2025-01-23,Small Business,Branch,None,N,High,756772.21
+ONB-0065,2025-01-31,2025-02-13,Small Business,Digital,Missing Documentation,Y,Low,1897005.14
+ONB-0066,2025-03-28,,Small Business,Digital,Missing Documentation,Y,Low,2410347.95
+ONB-0067,2025-01-07,2025-01-21,Small Business,Relationship Manager,Missing Documentation,Y,Low,495780.24
+ONB-0068,2025-01-31,2025-02-11,Small Business,Branch,Data Mismatch,N,Medium,782024.09
+ONB-0069,2025-03-27,,Small Business,Digital,None,N,Medium,818700.65
+ONB-0070,2025-01-30,2025-02-10,Small Business,Branch,Risk Review,N,High,149088.92
+ONB-0071,2025-01-23,2025-01-28,Mid-Market,Relationship Manager,None,N,High,1664796.49
+ONB-0072,2025-02-04,2025-02-07,Corporate,Digital,None,N,Medium,1454452.79
+ONB-0073,2025-02-11,2025-02-17,Mid-Market,Relationship Manager,None,N,Low,756131.21
+ONB-0074,2025-03-27,,Corporate,Digital,None,N,High,1452325.65
+ONB-0075,2025-02-21,2025-02-25,Small Business,Digital,None,N,Low,1519510.47
+ONB-0076,2025-01-16,2025-01-20,Mid-Market,Digital,None,N,Medium,174847.93
+ONB-0077,2025-03-10,2025-03-13,Small Business,Branch,None,N,Low,1363630.81
+ONB-0078,2025-03-31,,Small Business,Relationship Manager,None,N,Low,2213087.06
+ONB-0079,2025-02-26,2025-03-03,Small Business,Branch,None,N,Low,844762.48
+ONB-0080,2025-01-16,2025-01-21,Small Business,Digital,None,N,Medium,1548646.80
+ONB-0081,2025-02-24,,Small Business,Digital,None,N,High,1635283.44
+ONB-0082,2025-02-26,2025-03-05,Small Business,Branch,None,N,Medium,1430821.73
+ONB-0083,2025-02-06,2025-02-12,Corporate,Digital,Missing Documentation,Y,Medium,2180709.68
+ONB-0084,2025-02-11,2025-02-14,Small Business,Digital,Risk Review,N,Low,1484429.62
+ONB-0085,2025-01-07,2025-01-17,Small Business,Branch,Missing Documentation,Y,Medium,1333959.63
+ONB-0086,2025-02-25,2025-03-03,Mid-Market,Branch,None,N,Medium,1057111.24
+ONB-0087,2025-01-27,2025-01-29,Mid-Market,Relationship Manager,None,N,Low,809095.58
+ONB-0088,2025-01-22,2025-02-03,Mid-Market,Relationship Manager,None,N,Low,969269.33
+ONB-0089,2025-03-25,2025-03-31,Small Business,Branch,None,N,High,320655.97
+ONB-0090,2025-03-27,2025-03-31,Mid-Market,Branch,None,N,Medium,1284661.09
+ONB-0091,2025-03-26,,Corporate,Digital,Data Mismatch,N,Medium,1532224.31
+ONB-0092,2025-01-01,2025-01-07,Small Business,Branch,None,N,Medium,1910874.73
+ONB-0093,2025-01-24,2025-02-04,Small Business,Relationship Manager,None,N,Medium,39132.82
+ONB-0094,2025-01-03,2025-01-08,Mid-Market,Relationship Manager,None,N,Low,137470.58
+ONB-0095,2025-03-10,2025-03-18,Corporate,Digital,None,N,Low,2387667.46
+ONB-0096,2025-02-20,2025-02-27,Corporate,Branch,Risk Review,N,Low,2257954.84
+ONB-0097,2025-02-04,2025-02-10,Small Business,Digital,Missing Documentation,Y,Low,773520.74
+ONB-0098,2025-02-21,2025-03-06,Mid-Market,Relationship Manager,Missing Documentation,Y,Low,293593.72
+ONB-0099,2025-01-20,2025-01-23,Corporate,Branch,None,N,High,70961.49
+ONB-0100,2025-01-08,2025-01-20,Small Business,Digital,Risk Review,N,Low,2289667.41
+ONB-0101,2025-01-14,2025-01-22,Mid-Market,Relationship Manager,Data Mismatch,N,Low,1500598.29
+ONB-0102,2025-03-24,2025-03-27,Corporate,Relationship Manager,None,N,Low,2446193.36
+ONB-0103,2025-01-14,2025-01-17,Corporate,Relationship Manager,None,N,Low,25666.98
+ONB-0104,2025-03-21,2025-03-31,Mid-Market,Branch,None,N,Medium,2480725.54
+ONB-0105,2025-01-08,2025-01-14,Mid-Market,Relationship Manager,None,N,Low,2217421.97
+ONB-0106,2025-03-19,2025-03-21,Mid-Market,Digital,None,N,Low,377828.21
+ONB-0107,2025-01-29,2025-02-06,Mid-Market,Relationship Manager,Missing Documentation,Y,High,254779.57
+ONB-0108,2025-01-21,2025-01-28,Small Business,Relationship Manager,Risk Review,N,Medium,273195.86
+ONB-0109,2025-01-10,2025-01-20,Small Business,Relationship Manager,None,N,Medium,1724468.87
+ONB-0110,2025-03-03,2025-03-10,Mid-Market,Digital,None,N,High,1550607.46
+ONB-0111,2025-01-30,2025-02-06,Small Business,Digital,Data Mismatch,N,Medium,1142894.54
+ONB-0112,2025-02-12,2025-02-25,Small Business,Relationship Manager,None,N,Low,1948124.10
+ONB-0113,2025-03-14,2025-03-21,Corporate,Digital,None,N,High,1035462.48
+ONB-0114,2025-02-28,2025-03-04,Mid-Market,Digital,None,N,Low,564409.50
+ONB-0115,2025-03-21,2025-03-27,Small Business,Digital,None,N,Low,269146.04
+ONB-0116,2025-01-20,2025-01-28,Small Business,Relationship Manager,None,N,Medium,1639362.44
+ONB-0117,2025-03-06,2025-03-10,Mid-Market,Branch,None,N,Medium,253069.40
+ONB-0118,2025-02-27,2025-03-06,Small Business,Digital,None,N,Medium,1418226.93
+ONB-0119,2025-02-03,2025-02-07,Small Business,Relationship Manager,None,N,Low,2448259.39
+ONB-0120,2025-03-31,,Mid-Market,Digital,None,N,Low,675407.55
+ONB-0121,2025-03-25,,Mid-Market,Branch,Data Mismatch,N,Low,2098072.36
+ONB-0122,2025-01-13,2025-01-22,Corporate,Branch,Data Mismatch,N,Medium,2462783.64
+ONB-0123,2025-01-20,2025-01-24,Mid-Market,Digital,Data Mismatch,N,Low,28384.42
+ONB-0124,2025-03-12,2025-03-13,Small Business,Relationship Manager,None,N,Low,2440261.16
+ONB-0125,2025-03-19,2025-03-31,Small Business,Relationship Manager,None,N,Low,1160554.17
+ONB-0126,2025-02-24,2025-02-26,Small Business,Relationship Manager,None,N,Low,2485881.85
+ONB-0127,2025-03-26,2025-03-28,Mid-Market,Relationship Manager,None,N,Medium,1026556.30
+ONB-0128,2025-03-11,2025-03-14,Small Business,Relationship Manager,Risk Review,N,Medium,2332929.69
+ONB-0129,2025-02-18,2025-02-24,Small Business,Branch,None,N,Medium,1513248.70
+ONB-0130,2025-01-16,2025-01-24,Small Business,Digital,Data Mismatch,N,Low,1521070.38
+ONB-0131,2025-02-13,2025-02-19,Small Business,Digital,Data Mismatch,N,Medium,1428066.14
+ONB-0132,2025-02-21,2025-02-27,Small Business,Relationship Manager,None,N,Low,1314422.46
+ONB-0133,2025-01-16,2025-01-23,Small Business,Digital,Missing Documentation,Y,Medium,616571.93
+ONB-0134,2025-02-11,2025-02-13,Mid-Market,Digital,None,N,Medium,2266223.22
+ONB-0135,2025-03-12,2025-03-14,Small Business,Digital,None,N,High,1853000.53
+ONB-0136,2025-03-13,2025-03-24,Mid-Market,Branch,Risk Review,N,Medium,1335187.92
+ONB-0137,2025-01-17,2025-01-21,Mid-Market,Relationship Manager,None,N,Low,2110560.44
+ONB-0138,2025-03-18,2025-03-21,Corporate,Branch,Missing Documentation,Y,Low,879703.55
+ONB-0139,2025-03-26,2025-03-27,Small Business,Digital,Risk Review,N,Medium,1382294.43
+ONB-0140,2025-03-19,2025-03-24,Corporate,Digital,None,N,Low,111291.58
+ONB-0141,2025-02-24,2025-02-28,Corporate,Relationship Manager,None,N,Low,1397520.08
+ONB-0142,2025-01-31,2025-02-07,Small Business,Relationship Manager,Missing Documentation,Y,High,1372074.73
+ONB-0143,2025-01-15,2025-01-20,Small Business,Relationship Manager,None,N,High,1179917.31
+ONB-0144,2025-01-13,2025-01-17,Mid-Market,Branch,None,N,High,2420198.55
+ONB-0145,2025-02-17,2025-03-03,Small Business,Relationship Manager,None,N,Low,1119494.10
+ONB-0146,2025-03-31,,Small Business,Relationship Manager,Data Mismatch,N,Low,2218259.61
+ONB-0147,2025-02-03,2025-02-10,Mid-Market,Digital,Risk Review,N,Medium,1118521.39
+ONB-0148,2025-01-08,2025-01-14,Small Business,Digital,None,N,Low,2261787.81
+ONB-0149,2025-01-01,2025-01-15,Mid-Market,Branch,None,N,Low,1709953.40
+ONB-0150,2025-01-22,2025-01-27,Mid-Market,Relationship Manager,None,N,Low,767008.32
+ONB-0151,2025-03-05,2025-03-17,Small Business,Branch,Missing Documentation,Y,Medium,288568.59
+ONB-0152,2025-02-03,2025-02-11,Small Business,Digital,Missing Documentation,Y,Low,505349.18
+ONB-0153,2025-03-06,2025-03-11,Mid-Market,Digital,None,N,Low,389719.40
+ONB-0154,2025-01-30,2025-02-03,Mid-Market,Digital,None,N,Low,1351662.74
+ONB-0155,2025-02-03,2025-02-12,Corporate,Branch,None,N,Low,1916101.86
+ONB-0156,2025-03-05,2025-03-12,Small Business,Digital,Data Mismatch,N,Low,1813782.59
+ONB-0157,2025-03-18,2025-03-21,Mid-Market,Branch,None,N,Medium,577214.67
+ONB-0158,2025-02-14,2025-02-24,Mid-Market,Digital,Missing Documentation,Y,Low,540897.31
+ONB-0159,2025-03-06,2025-03-11,Mid-Market,Relationship Manager,None,N,Medium,116597.76
+ONB-0160,2025-02-06,2025-02-14,Small Business,Digital,None,N,Medium,2484016.83
+ONB-0161,2025-01-14,2025-01-23,Corporate,Digital,Missing Documentation,Y,Low,1888988.44
+ONB-0162,2025-03-14,2025-03-25,Mid-Market,Relationship Manager,Missing Documentation,Y,Low,2269045.45
+ONB-0163,2025-03-04,2025-03-17,Corporate,Digital,None,N,Low,1315774.07
+ONB-0164,2025-03-18,2025-03-24,Small Business,Digital,Missing Documentation,Y,Low,407630.30
+ONB-0165,2025-01-09,2025-01-15,Corporate,Relationship Manager,None,N,Medium,321757.15
+ONB-0166,2025-01-30,2025-02-07,Small Business,Relationship Manager,Data Mismatch,N,Medium,76769.36
+ONB-0167,2025-03-05,2025-03-06,Corporate,Branch,None,N,Low,1941443.00
+ONB-0168,2025-01-31,2025-02-12,Mid-Market,Digital,None,N,High,270491.38
+ONB-0169,2025-01-28,2025-02-03,Corporate,Digital,None,N,High,1724527.41
+ONB-0170,2025-01-02,2025-01-13,Small Business,Digital,Missing Documentation,Y,Low,386959.23
+ONB-0171,2025-02-04,2025-02-05,Small Business,Relationship Manager,None,N,Low,1625189.75
+ONB-0172,2025-02-21,2025-03-04,Small Business,Digital,Data Mismatch,N,Medium,2362386.75
+ONB-0173,2025-03-19,2025-03-24,Small Business,Relationship Manager,None,N,Medium,303170.41
+ONB-0174,2025-01-14,2025-01-22,Small Business,Digital,Data Mismatch,N,Medium,1110764.63
+ONB-0175,2025-02-13,2025-02-26,Corporate,Relationship Manager,None,N,High,1254755.48
+ONB-0176,2025-02-10,2025-02-18,Small Business,Relationship Manager,None,N,Low,2053100.77
+ONB-0177,2025-01-24,2025-01-28,Corporate,Branch,Missing Documentation,Y,Low,2145887.15
+ONB-0178,2025-01-02,2025-01-09,Mid-Market,Branch,None,N,Low,2178540.20
+ONB-0179,2025-01-01,2025-01-08,Small Business,Branch,Missing Documentation,Y,Low,2053767.43
+ONB-0180,2025-01-14,2025-01-17,Corporate,Digital,Risk Review,N,Medium,804907.57
+ONB-0181,2025-02-11,2025-02-19,Mid-Market,Branch,Missing Documentation,Y,Low,1238999.12
+ONB-0182,2025-03-13,2025-03-18,Mid-Market,Branch,Risk Review,N,High,1756987.11
+ONB-0183,2025-02-03,2025-02-06,Mid-Market,Digital,None,N,Low,49467.31
+ONB-0184,2025-01-21,2025-01-30,Mid-Market,Branch,None,N,Low,1505088.60
+ONB-0185,2025-01-09,2025-01-15,Mid-Market,Relationship Manager,Data Mismatch,N,High,2439764.04
+ONB-0186,2025-01-28,2025-02-10,Mid-Market,Digital,Missing Documentation,Y,Medium,2198763.90
+ONB-0187,2025-03-11,,Small Business,Branch,None,N,Medium,562587.25
+ONB-0188,2025-03-12,2025-03-14,Small Business,Digital,None,N,Medium,349709.81
+ONB-0189,2025-02-21,2025-02-26,Small Business,Digital,None,N,High,2194310.73
+ONB-0190,2025-01-01,2025-01-10,Mid-Market,Digital,Missing Documentation,Y,Medium,2415090.72
+ONB-0191,2025-02-20,2025-02-28,Small Business,Branch,None,N,High,314816.19
+ONB-0192,2025-02-10,2025-02-18,Corporate,Digital,Risk Review,N,Low,267218.01
+ONB-0193,2025-01-08,2025-01-20,Mid-Market,Branch,Missing Documentation,Y,Low,2483930.03
+ONB-0194,2025-01-03,2025-01-13,Small Business,Digital,Missing Documentation,Y,Medium,1321740.97
+ONB-0195,2025-01-30,2025-02-05,Corporate,Relationship Manager,None,N,Low,2498271.08
+ONB-0196,2025-02-12,2025-02-14,Corporate,Branch,None,N,Low,335124.52
+ONB-0197,2025-01-06,2025-01-09,Small Business,Branch,None,N,Low,399972.05
+ONB-0198,2025-03-05,2025-03-07,Mid-Market,Branch,None,N,Low,1133360.01
+ONB-0199,2025-01-06,2025-01-20,Mid-Market,Branch,None,N,Medium,1890868.18
+ONB-0200,2025-01-24,2025-02-03,Corporate,Relationship Manager,Missing Documentation,Y,Medium,1007713.65
+ONB-0201,2025-02-21,2025-03-05,Corporate,Relationship Manager,None,N,Low,2278654.03
+ONB-0202,2025-03-20,2025-03-25,Corporate,Digital,Data Mismatch,N,High,97000.25
+ONB-0203,2025-02-05,2025-02-06,Mid-Market,Digital,Data Mismatch,N,Low,2040666.54
+ONB-0204,2025-01-15,2025-01-17,Mid-Market,Branch,None,,Low,1033668.13
+ONB-0205,2025-01-09,2025-01-21,Mid-Market,Digital,None,N,Low,754922.51
+ONB-0206,2025-01-09,2025-01-17,Small Business,Digital,Data Mismatch,N,Low,890583.56
+ONB-0207,2025-01-02,2025-01-06,Corporate,Relationship Manager,None,N,Low,1038013.04
+ONB-0208,2025-01-21,,Corporate,Relationship Manager,None,N,Medium,1560810.97
+ONB-0209,2025-03-28,,Mid-Market,Digital,None,N,Medium,139658.23
+ONB-0210,2025-03-21,,Mid-Market,Digital,Data Mismatch,N,High,930676.33
+ONB-0211,2025-01-21,2025-01-29,Mid-Market,Digital,Missing Documentation,Y,High,1619924.36
+ONB-0212,2025-03-11,2025-03-13,Corporate,Digital,None,N,Medium,2422780.10
+ONB-0213,2025-03-03,2025-03-10,Mid-Market,Digital,None,N,Medium,334000.85
+ONB-0214,2025-03-17,2025-03-27,Corporate,Relationship Manager,Missing Documentation,Y,Medium,1908484.45
+ONB-0215,2025-02-13,2025-02-21,Mid-Market,Digital,Missing Documentation,Y,Low,1909261.14
+ONB-0216,2025-02-11,,Small Business,Digital,None,N,Medium,594479.26
+ONB-0217,2025-03-14,2025-03-25,Small Business,Relationship Manager,Data Mismatch,N,Low,1179154.11
+ONB-0218,2025-03-27,,Small Business,Relationship Manager,Risk Review,N,Medium,1776025.58
+ONB-0219,2025-01-01,2025-01-13,Small Business,Digital,Risk Review,N,High,1841755.92
+ONB-0220,2025-01-17,2025-01-21,Mid-Market,Digital,Data Mismatch,N,Low,818279.01
+ONB-0221,2025-01-21,2025-01-30,Mid-Market,Digital,None,N,Low,1026352.62
+ONB-0222,2025-02-10,2025-02-21,Corporate,Relationship Manager,Data Mismatch,N,Medium,2116693.93
+ONB-0223,2025-03-19,2025-03-24,Small Business,Digital,None,N,High,1981956.47
+ONB-0224,2025-02-18,2025-02-27,Small Business,Relationship Manager,None,N,Medium,765422.29
+ONB-0225,2025-03-25,2025-03-27,Corporate,Relationship Manager,None,N,Medium,1671093.66
+ONB-0226,2025-02-12,2025-02-19,Small Business,Relationship Manager,Risk Review,N,High,1913096.79
+ONB-0227,2025-02-28,2025-03-10,Small Business,Digital,None,N,Medium,1414144.13
+ONB-0228,2025-01-07,2025-01-14,Corporate,Relationship Manager,Missing Documentation,Y,Medium,1471665.45
+ONB-0229,2025-01-23,2025-02-06,Mid-Market,Digital,Missing Documentation,Y,High,2061994.92
+ONB-0230,2025-03-06,2025-03-14,Small Business,Digital,Risk Review,N,Low,920791.86
+ONB-0231,2025-02-25,,Corporate,Digital,Missing Documentation,Y,High,815421.16
+ONB-0232,2025-03-11,2025-03-14,Mid-Market,Branch,None,N,Medium,2326924.15
+ONB-0233,2025-01-31,2025-02-06,Small Business,Digital,Data Mismatch,N,Low,2169787.77
+ONB-0234,2025-02-07,2025-02-13,Mid-Market,Branch,None,N,Low,933879.66
+ONB-0235,2025-03-03,2025-03-06,Small Business,Branch,None,N,Low,1201898.41
+ONB-0236,2025-02-05,2025-02-13,Small Business,Digital,Missing Documentation,Y,High,528042.60
+ONB-0237,2025-02-12,2025-02-18,Mid-Market,Digital,None,N,Medium,815698.05
+ONB-0238,2025-03-12,2025-03-19,Mid-Market,Digital,None,N,Medium,1745127.20
+ONB-0239,2025-02-05,2025-02-13,Small Business,Digital,Data Mismatch,N,Medium,61045.55
+ONB-0240,2025-01-10,2025-01-17,Small Business,Digital,Missing Documentation,Y,Low,2312319.86
+ONB-0241,2025-01-02,2025-01-09,Mid-Market,Relationship Manager,None,N,Low,2123397.54
+ONB-0242,2025-02-12,2025-02-17,Mid-Market,Relationship Manager,None,N,Low,1967348.65
+ONB-0243,2025-03-25,,Mid-Market,Branch,Risk Review,N,Low,509581.69
+ONB-0244,2025-03-17,2025-03-26,Small Business,Branch,Missing Documentation,Y,Low,372209.58
+ONB-0245,2025-01-23,2025-01-30,Small Business,Relationship Manager,None,N,Low,2021852.86
+ONB-0246,2025-03-24,2025-03-27,Small Business,Branch,None,N,Low,1230753.84
+ONB-0247,2025-02-03,2025-02-11,Mid-Market,Relationship Manager,None,N,Low,1386372.28
+ONB-0248,2025-03-17,2025-03-20,Corporate,Digital,Data Mismatch,N,Low,84440.09
+ONB-0249,2025-03-07,2025-03-13,Small Business,Branch,None,N,Low,1033552.38
+ONB-0250,2025-03-26,,Mid-Market,Digital,None,N,Low,2030355.26
+ONB-0251,2025-02-21,2025-03-10,Mid-Market,Relationship Manager,None,N,Low,1020037.70
+ONB-0252,2025-01-24,2025-02-04,Mid-Market,Relationship Manager,Data Mismatch,N,Medium,1549679.18
+ONB-0253,2025-01-15,2025-01-28,Corporate,Digital,Risk Review,N,High,2060776.88
+ONB-0254,2025-03-24,2025-03-27,Mid-Market,Digital,Missing Documentation,Y,Low,1173953.63
+ONB-0255,2025-02-07,2025-02-13,Corporate,Digital,None,N,Low,2479367.70
+ONB-0256,2025-02-14,2025-02-18,Small Business,Digital,None,N,Medium,1861051.17
+ONB-0257,2025-03-19,2025-03-21,Mid-Market,Digital,None,N,High,946225.49
+ONB-0258,2025-03-12,2025-03-24,Corporate,Branch,Data Mismatch,N,Medium,2364042.27
+ONB-0259,2025-03-28,,Mid-Market,Branch,None,N,Medium,2238080.14
+ONB-0260,2025-02-03,2025-02-12,Mid-Market,Digital,Missing Documentation,Y,Medium,2126826.84
+ONB-0261,2025-03-24,2025-03-26,Small Business,Relationship Manager,Missing Documentation,Y,High,1101064.83
+ONB-0262,2025-02-17,2025-02-28,Mid-Market,Digital,Data Mismatch,N,Medium,1945867.27
+ONB-0263,2025-02-27,2025-03-10,Mid-Market,Branch,None,N,Medium,1838464.50
+ONB-0264,2025-01-31,2025-02-07,Corporate,Branch,Risk Review,N,Medium,2070448.21
+ONB-0265,2025-03-17,2025-03-26,Mid-Market,Relationship Manager,Missing Documentation,Y,Medium,646265.47
+ONB-0266,2025-03-13,2025-03-14,Mid-Market,Digital,None,N,Low,1267197.59
+ONB-0267,2025-01-13,2025-01-23,Mid-Market,Branch,None,N,Low,419232.78
+ONB-0268,2025-01-27,2025-02-07,Small Business,Branch,Risk Review,N,Low,593298.33
+ONB-0269,2025-01-01,2025-01-09,Small Business,Branch,None,N,High,510186.51
+ONB-0270,2025-03-07,2025-03-17,Corporate,Branch,Missing Documentation,Y,Medium,2179161.80
+ONB-0271,2025-01-30,2025-02-04,Small Business,Branch,None,N,Medium,2035171.55
+ONB-0272,2025-03-14,2025-03-27,Mid-Market,Digital,Missing Documentation,Y,Low,1812050.45
+ONB-0273,2025-01-13,2025-01-21,Small Business,Relationship Manager,None,N,Medium,870220.25
+ONB-0274,2025-02-10,2025-02-18,Mid-Market,Relationship Manager,None,N,Low,854893.35
+ONB-0275,2025-02-07,2025-02-11,Mid-Market,Digital,Missing Documentation,Y,Medium,1190852.45
+ONB-0276,2025-02-12,2025-02-24,Corporate,Relationship Manager,Data Mismatch,N,Medium,1661257.55
+ONB-0277,2025-03-17,2025-03-21,Small Business,Relationship Manager,Data Mismatch,N,Medium,254460.51
+ONB-0278,2025-02-24,2025-02-26,Mid-Market,Relationship Manager,Data Mismatch,N,Medium,1524671.32
+ONB-0279,2025-01-10,2025-01-20,Mid-Market,Branch,Data Mismatch,N,Medium,1311568.46
+ONB-0280,2025-01-14,2025-01-22,Small Business,Digital,Missing Documentation,Y,Low,1813671.18
+ONB-0281,2025-03-10,2025-03-17,Small Business,Digital,None,N,Low,1688798.62
+ONB-0282,2025-03-07,2025-03-17,Small Business,Branch,None,N,Low,1873860.71
+ONB-0283,2025-01-23,2025-02-03,Small Business,Digital,None,N,Medium,811920.27
+ONB-0284,2025-01-23,2025-02-03,Small Business,Digital,Risk Review,N,Low,2201461.43
+ONB-0285,2025-03-31,,Small Business,Relationship Manager,None,N,Low,2272769.10
+ONB-0286,2025-03-11,2025-03-19,Small Business,Branch,None,N,High,1429502.94
+ONB-0287,2025-03-25,,Mid-Market,Digital,Missing Documentation,Y,High,258520.99
+ONB-0288,2025-01-06,2025-01-14,Corporate,Branch,Data Mismatch,N,Medium,899030.94
+ONB-0289,2025-02-06,2025-02-10,Mid-Market,Digital,Missing Documentation,Y,Medium,1260169.62
+ONB-0290,2025-03-04,2025-03-14,Small Business,Branch,None,N,Low,1090175.15
+ONB-0291,2025-02-28,2025-03-14,Small Business,Digital,None,N,Medium,2117897.55
+ONB-0292,2025-01-21,2025-01-29,Corporate,Branch,Data Mismatch,N,Medium,433492.33
+ONB-0293,2025-02-21,2025-02-28,Mid-Market,Digital,Risk Review,N,Low,1549728.87
+ONB-0294,2025-03-04,2025-03-06,Small Business,Branch,None,N,Medium,295536.90
+ONB-0295,2025-01-13,2025-01-20,Mid-Market,Digital,Data Mismatch,N,Medium,538006.78
+ONB-0296,2025-02-25,2025-03-04,Mid-Market,Digital,None,N,Medium,1947999.66
+ONB-0297,2025-02-12,2025-02-21,Small Business,Relationship Manager,Risk Review,N,Low,329490.95
+ONB-0298,2025-01-28,2025-02-05,Corporate,Branch,None,N,Medium,2024443.34
+ONB-0299,2025-02-18,2025-02-20,Small Business,Relationship Manager,None,N,Low,2461827.25
+ONB-0300,2025-01-07,2025-01-09,Small Business,Branch,None,N,Low,1393826.05
+ONB-0301,2025-01-28,2025-02-03,Small Business,Relationship Manager,None,N,Medium,2243980.94
+ONB-0302,2025-01-22,2025-01-28,Mid-Market,Relationship Manager,Data Mismatch,N,Medium,771239.84
+ONB-0303,2025-01-03,2025-01-15,Mid-Market,Digital,None,N,Medium,1041500.65
+ONB-0304,2025-01-06,2025-01-14,Small Business,Digital,Missing Documentation,Y,Medium,925437.07
+ONB-0305,2025-01-07,2025-01-17,Corporate,Digital,None,N,Low,2330076.33
+ONB-0306,2025-02-27,2025-03-04,Small Business,Relationship Manager,Risk Review,N,Low,995757.70
+ONB-0307,2025-01-16,2025-01-21,Small Business,Digital,None,N,Medium,2078063.87
+ONB-0308,2025-01-09,2025-01-16,Mid-Market,Branch,None,N,Low,1167676.88
+ONB-0309,2025-01-10,2025-01-20,Small Business,Digital,None,N,High,1982418.52
+ONB-0310,2025-02-20,2025-02-24,Corporate,Relationship Manager,None,N,Low,242673.56
+ONB-0311,2025-03-03,2025-03-05,Mid-Market,Digital,None,N,High,-500.00
+ONB-0312,2025-02-17,2025-02-26,Small Business,Digital,None,N,Low,1503841.36
+ONB-0313,2025-01-27,,Corporate,Digital,Risk Review,N,Low,559911.03
+ONB-0314,2025-03-18,2025-03-26,Small Business,Relationship Manager,Data Mismatch,N,Medium,2399808.73
+ONB-0315,2025-02-14,2025-02-17,Mid-Market,Branch,None,N,Low,1087466.39
+ONB-0316,2025-01-08,2025-01-16,Mid-Market,Digital,Data Mismatch,N,Low,1953955.04
+ONB-0317,2025-03-28,,Mid-Market,Digital,None,N,Low,1723233.65
+ONB-0318,2025-01-06,2025-01-14,Corporate,Branch,Risk Review,N,Low,2053503.58
+ONB-0319,2025-01-21,2025-01-23,Small Business,Digital,None,N,Low,1710819.97
+ONB-0320,2025-02-18,2025-02-25,Small Business,Branch,None,N,Low,2378476.07
+ONB-0321,2025-01-17,2025-01-24,Corporate,Relationship Manager,Missing Documentation,Y,High,324121.74
+ONB-0322,2025-01-14,2025-01-22,Corporate,Digital,None,N,Low,1439925.60
+ONB-0323,2025-01-14,,Mid-Market,Relationship Manager,None,N,Low,2101905.25
+ONB-0324,2025-02-11,2025-02-18,Small Business,Digital,None,N,Low,350484.73
+ONB-0325,2025-03-03,2025-03-05,Mid-Market,Digital,None,N,Medium,551416.70
+ONB-0326,2025-03-11,2025-03-24,Small Business,Relationship Manager,None,N,Medium,295866.27
+ONB-0327,2025-03-21,2025-03-25,Mid-Market,Digital,None,N,Low,2476964.18
+ONB-0328,2025-02-26,2025-03-05,Small Business,Relationship Manager,None,N,Low,2313248.92
+ONB-0329,2025-03-19,2025-03-28,Small Business,Digital,None,N,Low,1754431.44
+ONB-0330,2025-01-27,2025-02-06,Small Business,Digital,None,N,Low,453029.90
+ONB-0331,2025-02-20,2025-02-24,Mid-Market,Branch,None,N,Medium,199931.79
+ONB-0332,2025-01-06,2025-01-17,Corporate,Branch,None,N,High,1222261.42
+ONB-0333,2025-02-11,2025-02-20,Small Business,Digital,Data Mismatch,N,Low,119198.18
+ONB-0334,2025-01-30,2025-02-03,Mid-Market,Relationship Manager,Data Mismatch,N,High,887701.53
+ONB-0335,2025-03-28,,Small Business,Digital,None,N,Medium,1911810.63
+ONB-0336,2025-02-21,2025-02-26,Mid-Market,Digital,None,N,Medium,2180744.81
+ONB-0337,2025-01-27,2025-02-10,Mid-Market,Branch,Risk Review,N,Medium,696195.50
+ONB-0338,2025-01-15,2025-01-27,Small Business,Relationship Manager,Risk Review,N,Low,2039769.05
+ONB-0339,2025-03-19,2025-03-26,Small Business,Digital,Missing Documentation,Y,Low,2219195.75
+ONB-0340,2025-01-10,2025-01-17,Small Business,Relationship Manager,None,N,Low,2309040.93
+ONB-0341,2025-01-23,2025-02-05,Small Business,Relationship Manager,Missing Documentation,Y,Medium,157659.40
+ONB-0342,2025-03-03,2025-03-06,Mid-Market,Branch,None,N,Medium,2419043.42
+ONB-0343,2025-01-15,2025-01-20,Mid-Market,Digital,Missing Documentation,Y,High,952584.56
+ONB-0344,2025-03-20,,Corporate,Branch,None,N,Low,613559.92
+ONB-0345,2025-03-25,2025-03-28,Corporate,Digital,Data Mismatch,N,Medium,1823419.63
+ONB-0346,2025-02-11,2025-02-13,Small Business,Branch,Missing Documentation,Y,Medium,342673.09
+ONB-0347,2025-01-07,2025-01-17,Small Business,Relationship Manager,Risk Review,N,Medium,1729590.56
+ONB-0348,2025-01-03,2025-01-15,Small Business,Digital,None,N,Medium,2031082.46
+ONB-0349,2025-01-01,2025-01-14,Corporate,Digital,None,N,High,1935462.55
+ONB-0350,2025-01-30,2025-02-10,Mid-Market,Digital,None,N,Low,1336571.80
+ONB-0351,2025-01-21,2025-02-05,Mid-Market,Relationship Manager,None,N,Low,100202.54
+ONB-0352,2025-01-09,2025-01-15,Small Business,Digital,None,N,Low,449880.52
+ONB-0353,2025-02-28,2025-03-06,Small Business,Branch,None,N,Low,520461.96
+ONB-0354,2025-02-06,2025-02-19,Small Business,Digital,Missing Documentation,Y,Low,1003358.80
+ONB-0355,2025-03-31,,Small Business,Digital,Data Mismatch,N,High,2418620.99
+ONB-0356,2025-01-16,2025-01-30,Small Business,Relationship Manager,None,N,High,731263.36
+ONB-0357,2025-03-18,2025-03-20,Mid-Market,Digital,None,N,High,2403395.97
+ONB-0358,2025-01-30,2025-02-07,Mid-Market,Digital,Missing Documentation,Y,High,1868218.46
+ONB-0359,2025-02-21,2025-02-25,Small Business,Digital,None,N,Low,1904797.99
+ONB-0360,2025-03-12,2025-03-18,Small Business,Digital,Data Mismatch,N,Medium,529829.82
+ONB-0361,2025-03-13,2025-03-21,Small Business,Relationship Manager,Missing Documentation,Y,Medium,2380238.00
+ONB-0362,2025-01-16,2025-01-21,Small Business,Digital,None,N,Low,173800.12
+ONB-0363,2025-01-13,2025-01-22,Mid-Market,Branch,Missing Documentation,Y,Low,1449254.56
+ONB-0364,2025-02-06,2025-02-14,Small Business,Relationship Manager,None,N,Low,2495487.83
+ONB-0365,2025-02-11,2025-02-21,Small Business,Relationship Manager,Risk Review,N,Low,2256018.74
+ONB-0366,2025-02-10,2025-02-18,Mid-Market,Relationship Manager,None,N,Low,1644411.18
+ONB-0367,2025-02-07,2025-02-12,Small Business,Digital,Data Mismatch,N,Low,1157508.86
+ONB-0368,2025-03-11,2025-03-18,Corporate,Digital,None,N,High,2426016.63
+ONB-0369,2025-03-27,,Small Business,Relationship Manager,None,N,Medium,1469083.24
+ONB-0370,2025-03-20,2025-03-26,Small Business,Digital,None,N,Low,916434.42
+ONB-0371,2025-02-06,2025-02-11,Small Business,Relationship Manager,None,N,Medium,2459380.32
+ONB-0372,2025-02-13,2025-02-21,Small Business,Relationship Manager,Risk Review,N,Low,937407.05
+ONB-0373,2025-03-19,2025-03-20,Small Business,Relationship Manager,None,N,Low,547296.80
+ONB-0374,2025-01-20,2025-01-30,Corporate,Relationship Manager,None,N,High,668763.05
+ONB-0375,2025-02-25,2025-03-07,Mid-Market,Relationship Manager,None,N,Medium,2230952.83
+ONB-0376,2025-01-28,2025-01-31,Corporate,Digital,None,N,Low,1665771.92
+ONB-0377,2025-02-21,2025-02-25,Small Business,Digital,None,N,High,533235.85
+ONB-0378,2025-03-03,2025-03-14,Corporate,Relationship Manager,None,N,Medium,1630383.05
+ONB-0379,2025-02-27,2025-03-13,Small Business,Relationship Manager,None,N,Low,884535.23
+ONB-0380,2025-03-21,2025-03-31,Small Business,Relationship Manager,Data Mismatch,N,Low,1957067.71
+ONB-0381,2025-03-21,,Small Business,Branch,None,N,Low,815255.52
+ONB-0382,2025-02-26,2025-02-28,Corporate,Relationship Manager,None,N,Low,1680690.47
+ONB-0383,2025-01-29,2025-02-04,Small Business,Digital,Missing Documentation,Y,Low,253709.07
+ONB-0384,2025-02-25,2025-03-04,Small Business,Relationship Manager,None,N,Medium,778546.72
+ONB-0385,2025-01-27,2025-02-04,Mid-Market,Digital,None,N,Low,1660451.22
+ONB-0386,2025-01-28,2025-02-03,Mid-Market,Relationship Manager,None,N,High,1490660.66
+ONB-0387,2025-01-31,2025-02-13,Small Business,Branch,None,N,Low,1697144.19
+ONB-0388,2025-01-30,2025-01-31,Corporate,Relationship Manager,Missing Documentation,Y,Low,1089898.58
+ONB-0389,2025-03-26,,Mid-Market,Relationship Manager,Data Mismatch,N,Low,40126.43
+ONB-0390,2025-02-26,2025-03-07,Small Business,Relationship Manager,Missing Documentation,Y,Medium,647053.28
+ONB-0391,2025-03-25,2025-03-26,Corporate,Relationship Manager,None,N,Medium,1414541.84
+ONB-0392,2025-01-06,2025-01-10,Mid-Market,Digital,None,N,Low,1472073.34
+ONB-0393,2025-01-28,,Mid-Market,Branch,None,N,Medium,2409983.63
+ONB-0394,2025-01-13,2025-01-23,Mid-Market,Digital,Data Mismatch,N,Low,37360.09
+ONB-0395,2025-03-26,,Small Business,Relationship Manager,Missing Documentation,Y,High,2201459.88
+ONB-0396,2025-01-31,2025-02-06,Mid-Market,Branch,None,N,Medium,1498757.36
+ONB-0397,2025-03-07,2025-03-17,Mid-Market,Digital,Risk Review,N,Low,14642.02
+ONB-0398,2025-01-08,2025-01-16,Mid-Market,Digital,Data Mismatch,N,High,2248737.52
+ONB-0399,2025-01-21,2025-01-22,Small Business,Branch,Data Mismatch,N,Low,35619.83
+ONB-0400,2025-03-31,,Corporate,Digital,Data Mismatch,N,Medium,563921.87
+ONB-0401,2025-02-25,2025-03-04,Small Business,Relationship Manager,None,N,Medium,792101.19
+ONB-0402,2025-03-04,2025-03-10,Small Business,Relationship Manager,None,N,High,740411.14
+ONB-0403,2025-01-29,2025-02-04,Small Business,Branch,Missing Documentation,Y,Low,2133725.92
+ONB-0404,2025-01-31,2025-02-05,Mid-Market,Branch,None,N,Medium,323403.01
+ONB-0405,2025-03-26,2025-03-31,Small Business,Branch,None,N,Low,1114537.78
+ONB-0406,2025-03-04,2025-03-07,Small Business,Relationship Manager,None,N,Low,1210394.17
+ONB-0407,2025-03-14,2025-03-21,Mid-Market,Digital,None,N,Low,1519057.17
+ONB-0408,2025-01-20,2025-01-29,Corporate,Digital,Missing Documentation,Y,Low,352702.94
+ONB-0409,2025-02-27,2025-03-06,Mid-Market,Digital,Data Mismatch,N,Low,880555.82
+ONB-0410,2025-03-20,,Corporate,Digital,Missing Documentation,Y,Low,1587828.89
+ONB-0411,2025-03-04,2025-03-07,Corporate,Digital,None,N,Low,2367313.80
+ONB-0412,2025-03-31,,Small Business,Digital,None,N,Low,582250.02
+ONB-0413,2025-03-06,2025-03-14,Small Business,Relationship Manager,None,N,Medium,806824.24
+ONB-0414,2025-02-24,2025-03-03,Small Business,Branch,None,N,Low,534140.32
+ONB-0415,2025-03-14,2025-03-19,Small Business,Digital,None,N,Low,1852085.03
+ONB-0416,2025-03-03,2025-03-10,Small Business,Digital,Missing Documentation,Y,Medium,2227790.64
+ONB-0417,2025-02-04,2025-02-17,Mid-Market,Relationship Manager,None,N,High,1807246.63
+ONB-0418,2025-03-04,2025-03-13,Small Business,Digital,None,N,Low,1993986.88
+ONB-0419,2025-02-10,2025-02-18,Small Business,Digital,None,N,Low,1735851.26
+ONB-0420,2025-01-24,2025-02-04,Mid-Market,Relationship Manager,None,N,Medium,658967.77
+ONB-0421,2025-02-24,2025-03-04,Mid-Market,Digital,None,N,Low,340113.34
+ONB-0422,2025-01-31,2025-02-11,Mid-Market,Relationship Manager,Risk Review,N,High,531276.57
+ONB-0423,2025-02-26,2025-03-07,Small Business,Digital,Missing Documentation,Y,Medium,1200505.60
+ONB-0424,2025-03-21,,Mid-Market,Relationship Manager,Risk Review,N,Low,1052276.70
+ONB-0425,2025-02-14,2025-02-26,Mid-Market,Digital,Missing Documentation,Y,Medium,1142710.64
+ONB-0426,2025-01-08,2025-01-10,Small Business,Branch,None,N,Low,887379.21
+ONB-0427,2025-02-14,2025-02-25,Small Business,Digital,None,N,Medium,499699.07
+ONB-0428,2025-03-14,2025-03-18,Mid-Market,Digital,None,N,Low,1286444.17
+ONB-0429,2025-01-15,2025-01-23,Small Business,Digital,Missing Documentation,Y,Medium,1538542.91
+ONB-0430,2025-01-13,2025-01-20,Corporate,Digital,None,N,Low,659592.90
+ONB-0431,2025-03-31,,Small Business,Digital,None,N,Medium,1875102.76
+ONB-0432,2025-02-10,2025-02-19,Small Business,Branch,None,N,Low,2157581.73
+ONB-0433,2025-01-02,2025-01-07,Mid-Market,Relationship Manager,None,N,Low,2457002.77
+ONB-0434,2025-01-14,2025-01-22,Mid-Market,Digital,None,N,Medium,543313.84
+ONB-0435,2025-03-17,2025-03-26,Mid-Market,Relationship Manager,None,N,Low,650911.40
+ONB-0436,2025-03-24,2025-03-31,Small Business,Relationship Manager,None,N,Low,951838.42
+ONB-0437,2025-01-24,2025-01-30,Corporate,Digital,Data Mismatch,N,Medium,1784582.83
+ONB-0438,2025-01-01,2025-01-06,Mid-Market,Relationship Manager,None,N,Low,2152873.47
+ONB-0439,2025-02-19,2025-02-28,Small Business,Digital,Data Mismatch,N,Low,924293.11
+ONB-0440,2025-01-10,2025-01-15,Small Business,Digital,None,N,Low,575189.39
+ONB-0441,2025-03-18,2025-03-25,Corporate,Digital,None,N,Low,271667.24
+ONB-0442,2025-03-24,2025-03-27,Mid-Market,Relationship Manager,None,N,Medium,1485452.84
+ONB-0443,2025-02-24,2025-03-06,Corporate,Digital,Missing Documentation,Y,High,2114232.24
+ONB-0444,2025-02-28,2025-03-05,Mid-Market,Digital,None,N,Medium,461712.20
+ONB-0445,2025-02-20,,Corporate,Relationship Manager,None,N,Low,2136855.38
+ONB-0446,2025-03-28,,Small Business,Relationship Manager,None,N,High,2271053.95
+ONB-0447,2025-01-16,2025-01-22,Mid-Market,Digital,Data Mismatch,N,Low,757974.99
+ONB-0448,2025-03-12,2025-03-17,Corporate,Branch,None,N,Medium,507370.21
+ONB-0449,2025-02-04,2025-02-07,Mid-Market,Digital,None,N,Medium,1226791.33
+ONB-0450,2025-01-27,2025-01-30,Corporate,Digital,None,N,Low,1011036.77
+ONB-0451,2025-01-15,2025-01-24,Small Business,Relationship Manager,None,N,Low,1871705.11
+ONB-0452,2025-01-17,2025-01-30,Small Business,Relationship Manager,None,N,High,1586540.38
+ONB-0453,2025-02-04,2025-02-12,Mid-Market,Branch,Missing Documentation,Y,High,2317657.89
+ONB-0454,2025-01-08,2025-01-13,Small Business,Digital,None,N,Medium,2188019.32
+ONB-0455,2025-01-10,2025-01-17,Small Business,Digital,Missing Documentation,Y,Medium,2206872.63
+ONB-0456,2025-02-21,2025-03-06,Small Business,Relationship Manager,Missing Documentation,Y,Medium,687598.03
+ONB-0457,2025-01-21,2025-01-24,Mid-Market,Digital,None,N,Low,686475.11
+ONB-0458,2025-03-31,,Small Business,Branch,None,N,Medium,1650967.49
+ONB-0459,2025-02-25,2025-02-28,Corporate,Digital,Data Mismatch,N,High,123428.06
+ONB-0460,2025-01-29,2025-02-06,Small Business,Relationship Manager,Missing Documentation,Y,Low,2209559.85
+ONB-0461,2025-03-13,2025-03-17,Small Business,Digital,None,N,High,179717.09
+ONB-0462,2025-01-16,2025-01-29,Corporate,Relationship Manager,Data Mismatch,N,Low,451218.64
+ONB-0463,2025-01-02,2025-01-08,Corporate,Relationship Manager,None,N,High,537346.61
+ONB-0464,2025-01-21,2025-01-28,Small Business,Digital,Data Mismatch,N,Low,1001846.66
+ONB-0465,2025-03-28,,Corporate,Digital,None,N,Medium,1281785.75
+ONB-0466,2025-03-21,,Mid-Market,Branch,Risk Review,N,High,48443.38
+ONB-0467,2025-01-21,2025-01-29,Mid-Market,Digital,Missing Documentation,Y,Medium,1743588.44
+ONB-0468,2025-01-23,2025-02-04,Mid-Market,Relationship Manager,None,N,High,534242.75
+ONB-0469,2025-02-13,2025-02-21,Small Business,Relationship Manager,None,N,Medium,884341.94
+ONB-0470,2025-01-23,2025-02-03,Small Business,Branch,None,N,Medium,857677.06
+ONB-0471,2025-03-07,2025-03-13,Small Business,Digital,None,N,Low,2188855.26
+ONB-0472,2025-01-22,2025-01-27,Mid-Market,Relationship Manager,Missing Documentation,Y,High,536255.18
+ONB-0473,2025-01-17,2025-01-22,Small Business,Digital,Missing Documentation,Y,Medium,1832189.69
+ONB-0474,2025-03-25,,Small Business,Digital,Data Mismatch,N,Low,1702746.07
+ONB-0475,2025-02-04,2025-02-13,Corporate,Relationship Manager,Risk Review,N,Low,2257441.16
+ONB-0476,2025-03-07,2025-03-18,Small Business,Digital,Data Mismatch,N,Low,1085778.83
+ONB-0477,2025-02-13,2025-02-20,Small Business,Digital,Data Mismatch,N,High,2023023.79
+ONB-0478,2025-03-04,2025-03-10,Small Business,Relationship Manager,None,N,Medium,1131237.51
+ONB-0479,2025-01-28,2025-02-06,Small Business,Digital,Missing Documentation,Y,High,2418310.16
+ONB-0480,2025-01-13,2025-01-21,Small Business,Digital,None,N,High,2049244.21
+ONB-0481,2025-01-24,2025-02-03,Mid-Market,Relationship Manager,None,N,Medium,172018.65
+ONB-0482,2025-02-04,2025-02-07,Corporate,Relationship Manager,None,N,Low,844051.66
+ONB-0483,2025-02-21,2025-03-06,Mid-Market,Relationship Manager,Missing Documentation,Y,Low,1387660.98
+ONB-0484,2025-01-16,2025-01-28,Small Business,Digital,None,N,Low,402235.82
+ONB-0485,2025-01-08,2025-01-17,Mid-Market,Digital,None,N,Medium,1179366.71
+ONB-0486,2025-02-27,2025-03-06,Mid-Market,Branch,None,N,Medium,2225504.79
+ONB-0487,2025-01-01,2025-01-10,Mid-Market,Relationship Manager,Missing Documentation,Y,Low,709766.08
+ONB-0488,2025-02-25,2025-03-03,Mid-Market,Digital,Risk Review,N,High,548450.21
+ONB-0489,2025-02-04,2025-02-13,Small Business,Digital,None,N,Low,1086644.11
+ONB-0490,2025-03-03,2025-03-10,Mid-Market,Relationship Manager,None,N,Low,1521836.81
+ONB-0491,2025-01-03,2025-01-14,Small Business,Digital,None,N,Medium,476656.51
+ONB-0492,2025-02-06,2025-02-19,Small Business,Relationship Manager,Missing Documentation,Y,High,1788761.25
+ONB-0493,2025-03-18,2025-03-27,Corporate,Relationship Manager,None,N,High,268404.48
+ONB-0494,2025-02-28,2025-03-04,Corporate,Digital,None,N,Medium,1239544.86
+ONB-0495,2025-02-21,2025-02-27,Corporate,Digital,Risk Review,N,Low,2086921.63
+ONB-0496,2025-02-20,2025-02-27,Small Business,Relationship Manager,None,N,Medium,619611.76
+ONB-0497,2025-03-18,2025-03-26,Small Business,Digital,None,N,Medium,1706329.47
+ONB-0498,2025-01-27,,Corporate,Digital,None,N,Low,2196268.32
+ONB-0499,2025-02-07,,Small Business,Digital,Data Mismatch,N,Low,1021923.54
+ONB-0500,2025-01-07,,Small Business,Digital,None,N,Medium,856912.56
+ONB-0501,2025-01-17,2025-01-28,Small Business,Relationship Manager,None,N,Low,1347786.02
+ONB-0502,2025-03-13,2025-03-24,Small Business,Relationship Manager,Missing Documentation,Y,Low,1473728.53
+ONB-0503,2025-01-28,2025-02-05,Corporate,Relationship Manager,None,N,Medium,2475155.50
+ONB-0504,2025-02-03,2025-02-07,Mid-Market,Branch,None,N,Low,100117.92
+ONB-0505,2025-03-28,,Mid-Market,Digital,None,N,Low,1898987.44
+ONB-0506,2025-03-12,2025-03-20,Corporate,Branch,Data Mismatch,N,High,125685.82
+ONB-0507,2025-03-20,,Corporate,Relationship Manager,Data Mismatch,N,Low,74589.65
+ONB-0508,2025-02-18,,Mid-Market,Digital,Missing Documentation,Y,Medium,784581.80
+ONB-0509,2025-02-27,2025-03-10,Corporate,Digital,Missing Documentation,Y,Low,336228.75
+ONB-0510,2025-01-29,,Mid-Market,Digital,None,N,High,1899939.49
+ONB-0511,2025-02-03,2025-02-07,Mid-Market,Digital,Missing Documentation,Y,Medium,534860.49
+ONB-0512,2025-01-28,2025-02-04,Mid-Market,Relationship Manager,Missing Documentation,Y,Medium,2487040.09
+ONB-0513,2025-03-12,2025-03-21,Small Business,Branch,None,N,High,1413349.74
+ONB-0514,2025-03-12,2025-03-14,Corporate,Digital,None,N,Medium,521518.98
+ONB-0515,2025-01-13,2025-01-24,Small Business,Digital,Risk Review,N,Low,1976958.30
+ONB-0516,2025-01-15,2025-01-24,Mid-Market,Digital,Risk Review,N,Medium,2208781.23
+ONB-0517,2025-03-17,2025-03-28,Mid-Market,Relationship Manager,None,N,Low,2430776.04
+ONB-0518,2025-03-26,,Corporate,Relationship Manager,None,N,Low,1062242.22
+ONB-0519,2025-01-20,2025-02-03,Corporate,Relationship Manager,Risk Review,N,Medium,168792.61
+ONB-0520,2025-01-22,2025-01-29,Mid-Market,Relationship Manager,None,N,Low,502979.51
+ONB-0521,2025-03-21,2025-03-25,Corporate,Relationship Manager,None,N,Low,1685912.19
+ONB-0522,2025-01-29,2025-02-12,Corporate,Branch,Missing Documentation,Y,Low,353433.30
+ONB-0523,2025-01-14,2025-01-23,Mid-Market,Relationship Manager,Missing Documentation,Y,Low,1173018.82
+ONB-0524,2025-01-21,2025-01-24,Small Business,Relationship Manager,Risk Review,N,Low,2474994.90
+ONB-0525,2025-01-10,2025-01-23,Mid-Market,Branch,None,N,Medium,290370.57
+ONB-0526,2025-01-29,2025-02-05,Corporate,Branch,Missing Documentation,Y,Medium,827776.35
+ONB-0527,2025-03-07,2025-03-14,Mid-Market,Relationship Manager,Data Mismatch,N,Low,1616226.46
+ONB-0528,2025-02-25,2025-02-26,Mid-Market,Digital,None,N,Medium,1818188.33
+ONB-0529,2025-02-11,2025-02-25,Small Business,Digital,Data Mismatch,N,Low,1533249.33
+ONB-0530,2025-01-15,2025-01-23,Corporate,Branch,Missing Documentation,Y,Medium,357367.08
+ONB-0531,2025-01-29,2025-01-30,Small Business,Digital,None,N,Low,2272873.47
+ONB-0532,2025-02-06,2025-02-14,Mid-Market,Digital,Data Mismatch,N,Low,140456.14
+ONB-0533,2025-02-11,2025-02-17,Mid-Market,Relationship Manager,None,N,Low,1648325.77
+ONB-0534,2025-03-06,2025-03-17,Mid-Market,Digital,None,N,Low,914647.83
+ONB-0535,2025-03-03,2025-03-10,Mid-Market,Digital,None,N,Low,2324292.07
+ONB-0536,2025-02-24,2025-03-05,Small Business,Digital,Missing Documentation,Y,Low,2300228.46
+ONB-0537,2025-01-16,2025-01-29,Corporate,Relationship Manager,Data Mismatch,N,Low,135973.62
+ONB-0538,2025-03-14,2025-03-25,Small Business,Digital,Risk Review,N,High,35833.62
+ONB-0539,2025-02-05,2025-02-17,Mid-Market,Digital,None,N,Low,1402686.85
+ONB-0540,2025-03-05,2025-03-18,Mid-Market,Digital,Missing Documentation,Y,Medium,82229.44
+ONB-0541,2025-01-28,2025-02-04,Small Business,Digital,Data Mismatch,N,Medium,1267455.42
+ONB-0542,2025-03-07,2025-03-17,Small Business,Relationship Manager,None,N,Low,2102270.90
+ONB-0543,2025-01-14,2025-01-21,Mid-Market,Digital,Data Mismatch,N,Low,1158263.11
+ONB-0544,2025-02-04,2025-02-07,Corporate,Digital,None,N,Medium,1563897.17
+ONB-0545,2025-02-20,2025-02-26,Mid-Market,Digital,None,N,Low,1829896.08
+ONB-0546,2025-02-03,2025-02-13,Small Business,Branch,Risk Review,N,High,832389.42
+ONB-0547,2025-03-24,,Corporate,Digital,None,N,Low,1852236.16
+ONB-0548,2025-03-26,,Corporate,Digital,None,N,Low,2067303.03
+ONB-0549,2025-01-22,2025-02-03,Small Business,Branch,Missing Documentation,Y,Medium,1509792.32
+ONB-0550,2025-01-27,2025-01-30,Mid-Market,Relationship Manager,Data Mismatch,N,Medium,1075112.94
+ONB-0551,2025-02-07,2025-02-19,Mid-Market,Relationship Manager,Data Mismatch,N,Medium,2248415.79
+ONB-0552,2025-01-10,2025-01-20,Mid-Market,Relationship Manager,Missing Documentation,Y,Low,1648476.08
+ONB-0553,2025-01-27,2025-02-05,Mid-Market,Relationship Manager,Missing Documentation,Y,Low,2057243.52
+ONB-0554,2025-01-24,2025-01-28,Small Business,Relationship Manager,None,N,Medium,2002613.87
+ONB-0555,2025-01-10,2025-01-14,Small Business,Relationship Manager,None,N,Medium,742679.30
+ONB-0556,2025-01-17,2025-01-27,Small Business,Relationship Manager,None,N,Medium,2023875.53
+ONB-0557,2025-03-03,2025-03-05,Small Business,Relationship Manager,None,N,Low,1365574.72
+ONB-0558,2025-03-07,2025-03-24,Corporate,Digital,None,N,Low,2475573.82
+ONB-0559,2025-02-21,2025-03-03,Small Business,Relationship Manager,Data Mismatch,N,Medium,1212321.82
+ONB-0560,2025-02-04,2025-02-10,Small Business,Relationship Manager,None,N,Medium,14957.83
+ONB-0561,2025-01-23,2025-01-29,Corporate,Relationship Manager,Data Mismatch,N,Low,1609762.06
+ONB-0562,2025-03-28,,Mid-Market,Digital,None,N,Low,1765216.57
+ONB-0563,2025-02-11,2025-02-20,Corporate,Digital,None,N,Medium,540266.88
+ONB-0564,2025-03-03,2025-03-14,Corporate,Relationship Manager,None,N,Medium,2251892.79
+ONB-0565,2025-02-07,2025-02-12,Small Business,Relationship Manager,None,N,Low,2269411.03
+ONB-0566,2025-01-17,2025-01-20,Small Business,Branch,None,N,Low,246132.52
+ONB-0567,2025-02-19,2025-02-27,Corporate,Digital,None,N,High,1915237.26
+ONB-0568,2025-02-17,2025-02-24,Corporate,Digital,Risk Review,N,Low,2367779.51
+ONB-0569,2025-02-17,2025-02-21,Mid-Market,Digital,None,N,Low,642833.90
+ONB-0570,2025-02-12,2025-02-20,Small Business,Digital,None,N,Medium,909279.08
+ONB-0571,2025-03-13,2025-03-19,Small Business,Digital,Risk Review,N,Medium,2488568.83
+ONB-0572,2025-02-28,2025-03-05,Corporate,Digital,None,N,Low,191007.15
+ONB-0573,2025-03-06,2025-03-19,Small Business,Relationship Manager,None,N,Medium,1398972.68
+ONB-0574,2025-03-04,2025-03-13,Small Business,Digital,Missing Documentation,Y,Low,1250227.74
+ONB-0575,2025-01-07,2025-01-13,Corporate,Digital,None,N,High,444516.15
+ONB-0576,2025-02-14,2025-02-26,Mid-Market,Branch,Missing Documentation,Y,Low,2356416.78
+ONB-0577,2025-01-01,2025-01-06,Small Business,Digital,Missing Documentation,Y,Low,2015804.34
+ONB-0578,2025-01-22,,Small Business,Branch,Data Mismatch,N,Low,239843.36
+ONB-0579,2025-02-17,2025-02-25,Small Business,Relationship Manager,None,N,High,1664500.92
+ONB-0580,2025-01-13,2025-01-23,Mid-Market,Relationship Manager,Risk Review,N,Low,887671.14
+ONB-0581,2025-01-08,2025-01-10,Corporate,Relationship Manager,None,N,Low,123929.81
+ONB-0582,2025-03-03,2025-03-05,Mid-Market,Branch,None,N,Medium,422768.79
+ONB-0583,2025-03-13,2025-03-24,Small Business,Digital,Data Mismatch,N,Low,1862839.36
+ONB-0584,2025-03-04,2025-03-12,Small Business,Digital,None,N,Medium,1814176.42
+ONB-0585,2025-03-06,2025-03-11,Small Business,Digital,None,N,Medium,1152446.97
+ONB-0586,2025-01-23,2025-02-05,Small Business,Digital,None,N,Medium,1825086.49
+ONB-0587,2025-03-18,,Mid-Market,Digital,None,N,Medium,2015464.85
+ONB-0588,2025-03-14,2025-03-19,Corporate,Relationship Manager,None,N,Medium,1415256.92
+ONB-0589,2025-01-22,2025-01-24,Mid-Market,Relationship Manager,None,N,Medium,1331563.85
+ONB-0590,2025-01-13,2025-01-21,Corporate,Branch,None,N,High,802213.85
+ONB-0591,2025-03-17,,Small Business,Digital,Data Mismatch,N,Medium,717177.75
+ONB-0592,2025-02-17,2025-02-27,Mid-Market,Digital,None,N,Low,207213.16
+ONB-0593,2025-03-27,,Mid-Market,Branch,None,N,Low,1532393.89
+ONB-0594,2025-02-19,2025-02-24,Mid-Market,Digital,None,N,Medium,1221220.25
+ONB-0595,2025-03-26,2025-03-31,Mid-Market,Digital,None,N,Low,1565760.98
+ONB-0596,2025-01-13,2025-01-20,Small Business,Relationship Manager,Missing Documentation,Y,Low,2058751.73
+ONB-0597,2025-01-15,2025-01-28,Mid-Market,Digital,Missing Documentation,Y,Medium,1387383.90
+ONB-0598,2025-01-30,2025-02-06,Small Business,Relationship Manager,None,N,Medium,2031093.61
+ONB-0599,2025-01-20,2025-01-24,Mid-Market,Relationship Manager,Risk Review,N,Low,847718.09
+ONB-0011,2025-02-25,2025-02-28,Mid-Market,Relationship Manager,None,N,Low,1814217.73

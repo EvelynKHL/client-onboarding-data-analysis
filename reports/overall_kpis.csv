@@ -1,0 +1,2 @@
+total_cases,valid_date_cases,completed_cases,open_cases,completion_rate_pct,sla_attainment_pct,median_processing_business_days,average_processing_business_days,open_over_5_business_days
+600,600,538,62,89.7,53.7,5.0,5.2,26

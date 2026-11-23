@@ -1,0 +1,5 @@
+group,cases,completed,open,sla_attainment_pct,median_processing_business_days
+Data Mismatch,89,76,13,48.7,6.0
+Missing Documentation,110,102,8,32.4,6.0
+None,345,309,36,63.8,4
+Risk Review,56,51,5,43.1,6
